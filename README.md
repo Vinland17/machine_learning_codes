@@ -2,4 +2,4 @@
 some ml codes that i found usefull
 i will be also adding some encription algorithms 
 
-Adding co-author
+Adding co-author for efficency
